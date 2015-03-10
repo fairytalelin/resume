@@ -10,7 +10,7 @@
 - 专业名称：软件工程
 - 手机: [156-2235-8637](tel://610-590-4484)
 - 邮箱: <claytale@163.com>
-- Blog: [stephentudor.com](fairytalelin.github.io)
+- Blog: [github.io](fairytalelin.github.io)
 - Github: [smt](https://github.com/claywucailin)
 
 求职意向
