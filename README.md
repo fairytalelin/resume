@@ -1,7 +1,5 @@
 林武材
 =============
-
-
 个人信息
 -----------
 - 男/1989
@@ -11,7 +9,7 @@
 - 手机: [156-2235-8637](tel://610-590-4484)
 - 邮箱: <claytale@163.com>
 - Blog: [github.io](fairytalelin.github.io)
-- Github: [smt](https://github.com/claywucailin)
+- Github: [https://github.com/claywucailin](https://github.com/claywucailin)
 
 求职意向
 -----------
