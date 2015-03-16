@@ -17,7 +17,7 @@
 
 专业技能
 -----------
-- 熟悉Java,Java及Web开发和应用,熟悉JSP、Servlet
+- 熟悉Java及Web开发和应用,熟悉JSP、Servlet
 - 熟悉使用MySQL数据库开发
 - 熟悉Unix/Linux操作系统和开发环境
 - 使用过Spring开发Web应用
