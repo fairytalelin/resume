@@ -8,8 +8,6 @@
 - 专业名称：软件工程
 - 手机: [156-2235-8637](tel://610-590-4484)
 - 邮箱: <claytale@163.com>
-- Blog: [github.io](fairytalelin.github.io)
-- Github: [https://github.com/claywucailin](https://github.com/claywucailin)
 
 求职意向
 -----------
@@ -29,7 +27,7 @@
 项目经验
 -----------
 1. - 时间:2013/7 -- 2014/3
-  - 企业名称:[广州创业公司票集网络科技有限公司](https://www.cityspade.com/)
+  - 企业名称:[广州票集网络科技有限公司](https://www.cityspade.com/)
   - 项目描述:[公司](https://www.cityspade.com/)主要提供租房和卖房信息。
   - 项目中职责:负责网站的前端开发,熟悉掌握css调试和js调试
 
