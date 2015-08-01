@@ -2,7 +2,7 @@
 - 林武材/男/1989
 - 广东工业大学/硕士/软件工程
 - 手机: [156-2235-8637](tel://15622358637)
-- 邮箱: <claytale#163.com>
+- 邮箱: <claytale@163.com>
 - blog: [https://fairytalelin.github.io/](https://fairytalelin.github.io/)
 - 期望城市：广州/杭州
 - 希望从事：后台研发
