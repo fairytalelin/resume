@@ -9,9 +9,9 @@
 
 ##关于编程
 - 不错的Java基础:collection/io/juc/jvm
-- ruby/rails可以马上参与项目
+- 使用过ruby/rails开发
 - Unix/Linux/Shell这些都挺熟悉的
-- 主流数据库MySQL,h2之类是必须的，会用rails/memcached
+- 主流数据库MySQL,h2，会用rails/memcached
 - 对TCP/IP，HTTP,SOCKET自我感觉还行
 - js/jquery/sass/bootstarp 可以算0.45个前端
 - 平时用C来研究常用数据结构与算法
