@@ -21,6 +21,7 @@
 - Java 并发库研究和使用
 - 常用系统的监控及异常报警(elk、metrics)
 - netty学习和使用
+
 ##我觉得最重要的
 - google + 知乎 + stackoverflow + v2ex 好有爱
 - 耗子+阮一峰+timYang+小道+江南白衣+简书+importsnew+并发编程网 < 开发者头条
