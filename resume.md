@@ -7,11 +7,19 @@
 - 希望从事：后台研发
 
 ##关于编程
-- 扎实的Java基础:collection/io/juc/jvm
+- 扎实的Java基础:Collection/IO/NIO/J.U.C/JVM
 - 熟悉Unix/Linux/Shell下的环境开发
 - 主流数据库MySQL、h2的使用,redis的使用和研究
 - 熟悉TCP/IP，HTTP,SOCKET
-- 熟悉js/jquery/sass/bootstarp前端技术
+- 熟悉JS/JQuery/SASS/BootStarp前端技术
+
+
+###我使用过的框架
+- Web开源框架:Spring
+- SpringBoot
+- Git/Maven/SVN
+- Java持久层框架:MyBatis
+- Java并发框架:Netty
 
 ##我关注的
 - Java 并发库研究和使用
