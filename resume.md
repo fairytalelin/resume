@@ -15,9 +15,11 @@
 ##我关注的
 - Java 并发库研究和使用
 - netty学习和使用
+- 常用系统的监控及异常报警(elk、metrics)
+- 集群和分布式架构
 - docker虚拟技术
 - linux内核实现与源码研究
-- 常用系统的监控及异常报警(elk、metrics)
+
 
 ##平常浏览的
 - google + 知乎 + stackoverflow + v2ex
